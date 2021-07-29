@@ -2,12 +2,14 @@
 
 This package contains
 (1) The test file index.html (Mockup of https://daydot.agency/)
+
 (2) The script (Exact copy contained inside the script tags in index.html)
 
 This is a development version of a final version. It's not ready for production.
 
 ### Functionality:
 (1) When clicking "CONTROL" button, the control version of the website should remain unchanged
+
 (2) When clicking "VARIATION" button, the homepage should have the following changes (that can be reversed back to control when clicking the "CONTROL" button)
 
 Both buttons should have a "active" state class (different color) when active.
